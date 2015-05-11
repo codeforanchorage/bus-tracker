@@ -1,0 +1,6 @@
+var config = {}
+
+config.username = '{your cartoDB username}';
+config.tablename = '{your cartoDB table name}';
+
+module.exports = config;

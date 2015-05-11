@@ -1,0 +1,18 @@
+{
+  "name": "cartoCrowd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "dotenv": "^1.1.0",
+    "express": "^4.12.3",
+    "handlebars": "^3.0.3",
+    "request": "^2.55.0"
+  }
+}
