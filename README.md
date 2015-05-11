@@ -15,10 +15,13 @@ Install dependencies
 
 Enter your cartodb username and tablename in config.js
 
-`var config = {}
+Enter your API key in .env (or otherwise create an environment variable called API_KEY)
 
-config.username = 'chriswhong';
-config.tablename = 'cartocrowd';
+Make sure the column names in your table line up with the fields in your form.
 
-module.exports = config;`
+##TODO
 
+-POST data in valid geoJSON
+-Add line and polygon support
+-Add captcha
+-Add form validation
