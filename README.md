@@ -21,7 +21,7 @@ Make sure the column names in your table line up with the fields in your form.
 
 ##TODO
 
--POST data in valid geoJSON
--Add line and polygon support
--Add captcha
--Add form validation
+- POST data in valid geoJSON
+- Add line and polygon support
+- Add captcha
+- Add form validation
